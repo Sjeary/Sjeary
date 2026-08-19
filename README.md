@@ -6,13 +6,11 @@ M.S. student in Computer Science at Beijing Institute of Technology.
 
 ## 🏆 Competition
 
-### TGAC 2025 — 3D Video MoCap
+### [TGAC 2025 — 3D Video MoCap](https://mp.weixin.qq.com/s/5NW8mic6rWAaJ5yz86On2w)
 
 **7th Place** · Tencent Games Algorithm Competition 2025
 
 3D human motion reconstruction from monocular video in world coordinates.
-
-[Certificate](assets/tgac-2025-certificate.pdf)
 
 ## 💻 Project
 
